@@ -58,6 +58,15 @@ This section features SQL queries tailored for the "**universidad**" database.
 9.  -- Shows the number of subjects taught by each professor (includes professors who don't teach any subjects).
 10. -- Retrieves the information of the youngest student.
 11. -- Lists professors who are associated with a department but do not teach any subjects.
+12. -- Returns a list with the first surname, middle surname, and first name of all students. The list must be sorted alphabetically from lowest to highest by first surname, middle surname, and first name.
+13. -- Finds the first and both surnames of students who have not registered their phone number in the database.
+14. -- Returns a list of students born in 1999.
+15. -- Returns a list of teachers who have not registered their phone number in the database and whose NIF ends in K.
+16. -- Returns a list of courses taught in the first semester, in the third year of the degree with the identifier 7.
+17. -- Returns a list of teachers along with the name of the department to which they are associated. The list must return four columns: first surname, middle surname, first name, and department name. The result will be sorted alphabetically from lowest to highest by last name and first name.
+18. --Returns a list of course names, start year, and end year of the academic year for the student with NIF 26902806M.
+19. --Returns a list of all departments with professors teaching a course in the Bachelor's Degree in Computer Engineering (2015 Curriculum).
+20. --Returns a list of all students enrolled in a course during the 2018/2019 academic year.
 
 ## 🗄️ Database Management
 
